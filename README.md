@@ -204,6 +204,14 @@ RSS 阅读器。关于 RSS，可以参考 [如何用 RSS 订阅？](https://juej
 
 ---
 
+[**Requestly: Modify Headers, Mock API, Redirect**](https://chrome.google.com/webstore/detail/requestly-modify-headers/mdnleldcmiljblolnjhpnblkcekpdkpa)
+
+![](img/requestly.png)
+
+浏览器请求工具的集大成者。支持 HTTP Header 修改、API Mock、重定向、请求拦截器等，几乎能满足任何请求修改的需求。
+
+---
+
 [**ModHeader**](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)
 
 ![](img/modheader.png)
