@@ -75,7 +75,7 @@
 
 ---
 
-[crxMouse Chrome 手势](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)
+[**crxMouse Chrome 手势**](https://chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo)
 
 ![](img/crxmouse.png)
 
@@ -153,7 +153,7 @@ Chrome 拓展管理器，比自带的高效、美观。
 
 ---
 
-[Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+[**Dark Reader**](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
 ![](img/dark-reader.png)
 
@@ -222,7 +222,7 @@ RSS 阅读器。关于 RSS，可以参考 [如何用 RSS 订阅？](https://juej
 
 ---
 
-[tweak](https://chrome.google.com/webstore/detail/tweak-mock-and-modify-htt/feahianecghpnipmhphmfgmpdodhcapi) -
+[**tweak**](https://chrome.google.com/webstore/detail/tweak-mock-and-modify-htt/feahianecghpnipmhphmfgmpdodhcapi)
 
 ![](img/tweak.png)
 
@@ -230,7 +230,7 @@ RSS 阅读器。关于 RSS，可以参考 [如何用 RSS 订阅？](https://juej
 
 ---
 
-[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+[**EditThisCookie**](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
 
 ![](img/edit-this-cookie.png)
 
@@ -238,7 +238,7 @@ RSS 阅读器。关于 RSS，可以参考 [如何用 RSS 订阅？](https://juej
 
 ---
 
-[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
+[**JSON Formatter**](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa)
 
 ![](img/json-formatter.png)
 
@@ -267,7 +267,7 @@ RSS 阅读器。关于 RSS，可以参考 [如何用 RSS 订阅？](https://juej
 
 ---
 
-[Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
+[**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh)
 
 ![](img/window-resizer.png)
 
@@ -283,7 +283,7 @@ RSS 阅读器。关于 RSS，可以参考 [如何用 RSS 订阅？](https://juej
 
 ---
 
-[Web Maker](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
+[**Web Maker**](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
 
 ![](img/web-maker.png)
 
@@ -299,7 +299,7 @@ RSS 阅读器。关于 RSS，可以参考 [如何用 RSS 订阅？](https://juej
 
 ---
 
-[Checkbot](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
+[**Checkbot**](https://chrome.google.com/webstore/detail/checkbot-seo-web-speed-se/dagohlmlhagincbfilmkadjgmdnkjinl)
 
 ![](img/checkbot.png)
 
@@ -315,13 +315,13 @@ react 官方调试工具，react 开发者必装。
 
 ---
 
-[Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+[**Vue.js devtools**](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
 Vue 官方调试工具。
 
 ## Github 增强
 
-[Octotree - GitHub code tree](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
+[**Octotree - GitHub code tree**](https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc)
 
 ![](img/octotree.png)
 
