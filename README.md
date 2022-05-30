@@ -1,6 +1,6 @@
 ## 关于 <!-- omit in toc -->
 
-这是一份个人认为很棒的 Chrome 插件列表。
+这是一些个人认为很棒的 Chrome 拓展插件。
 
 前半部分是通用工具，适合所有人；后半部分是 web 开发工具，更适合 web 开发者。
 
@@ -20,9 +20,9 @@
 
 - [功能增强](#功能增强)
 - [网上冲浪](#网上冲浪)
-- [Github 增强](#github-增强)
-- [Web 开发](#web-开发)
 - [极客工具](#极客工具)
+- [Web 开发](#web-开发)
+- [Github 增强](#github-增强)
 
 ## 功能增强
 
@@ -55,7 +55,7 @@
 
 把众多标签页收束到一个标签页里，方便快速查看、恢复。
 
-浏览器重度使用者的福音，有效避免这种标签页野蛮生长，难以查找的情况。
+浏览器重度使用者的福音，有效避免这种标签页野蛮生长，难以查看的情况。
 
 ![](img/too-many-tabs.png)
 
@@ -146,6 +146,8 @@ Chrome 拓展管理器，比自带的高效、美观。
 ---
 
 [**Web Highlights**](https://chrome.google.com/webstore/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm)
+
+![](img/web-highlights.png)
 
 网页阅读高亮工具，类似在电子书上的文字高亮。可以在阅读时标记，方便后续整理、回顾
 
